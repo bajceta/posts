@@ -1,7 +1,11 @@
 Forward port 80 to a different port on a local box with nginx reverse proxy
 ==============
 
+Install nginx 
+
+```
 brew install nginx
+```
 
 edit `/usr/local/etc/nginx/nginx.conf`
 
